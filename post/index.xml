@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Wizard</title>
+    <link>https://hoseinkhaleghi.github.io/post/</link>
+    <description>Recent content in Articles on Wizard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://hoseinkhaleghi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter VI: Learn Next.js</title>
+      <link>https://hoseinkhaleghi.github.io/post/chapter-6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hoseinkhaleghi.github.io/post/chapter-6/</guid>
+      <description>1. What is Nextjs? Next.js is an open-source, lightweight React.js framework that facilitates developers to build static and server-side rendering web applications. It was created by Zeit. Next.js framework is based on React, Webpack, and Babel and allows us to write server-rendered React apps easily. It doesn&amp;rsquo;t require any webpack configuration and only needs npm run dev start building your next feature-filled web application.
+2. Why is Next.js used for? / Why do world&amp;rsquo;s leading companies prefer Next.</description>
+    </item>
+    
+    <item>
+      <title>Chapter V: Learn React</title>
+      <link>https://hoseinkhaleghi.github.io/post/chapter-5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://hoseinkhaleghi.github.io/post/chapter-5/</guid>
+      <description>In writing</description>
+    </item>
+    
+    <item>
+      <title>Chapter IV: Learn javaScript</title>
+      <link>https://hoseinkhaleghi.github.io/post/chapter-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://hoseinkhaleghi.github.io/post/chapter-4/</guid>
+      <description>1. What are the possible ways to create objects in JavaScript There are many ways to create objects in javascript as mentioned below:
+Object literal syntax:
+The object literal syntax (or object initializer), is a comma-separated set of name-value pairs wrapped in curly braces.
+var object = { name: &amp;ldquo;Sudheer&amp;rdquo;, age: 34 }; Object literal property values can be of any data type, including array, function, and nested object.
+Note: This is one of the easiest ways to create an object.</description>
+    </item>
+    
+    <item>
+      <title>Chapter III: Learn TailwindCSS</title>
+      <link>https://hoseinkhaleghi.github.io/post/chapter-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://hoseinkhaleghi.github.io/post/chapter-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter II: Learn CSS</title>
+      <link>https://hoseinkhaleghi.github.io/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://hoseinkhaleghi.github.io/post/chapter-2/</guid>
+      <description>1. What does CSS stand for and what is its primary use? Cascading Style Sheets (CSS) is primarily designed to separate web page content from its visual presentation. This allows for a consistent and adaptable design across multiple web pages.
+Key Concepts Selectors: Elements to which the style rules apply. Properties: Visual features, such as font-size, color, and background. Values: Specific settings for properties, like &amp;lsquo;red&amp;rsquo; for the color property.</description>
+    </item>
+    
+    <item>
+      <title>Chapter I: Learn HTML</title>
+      <link>https://hoseinkhaleghi.github.io/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://hoseinkhaleghi.github.io/post/chapter-1/</guid>
+      <description>In writing</description>
+    </item>
+    
+  </channel>
+</rss>

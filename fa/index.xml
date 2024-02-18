@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ananke: Un thème pour Hugo on حسین</title>
+    <link>https://hoseinkhaleghi.github.io/fa/</link>
+    <description>Recent content in Ananke: Un thème pour Hugo on حسین</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://hoseinkhaleghi.github.io/fa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter VI: Learn Next.js</title>
+      <link>https://hoseinkhaleghi.github.io/fa/post/chapter-6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hoseinkhaleghi.github.io/fa/post/chapter-6/</guid>
+      <description>Next.js چیست ؟ Next.js یک فریم‌ورک ری‌اکت برای ساخت وب‌سایت‌های ری‌اکت با امکانات اضافی است. این فریم‌ورک توسط شرکت Vercel توسعه داده شده و از ویژگی‌های مهم آن می‌توان به SSR (Server Side Rendering)، SSG (Static Site Generation)، API Routes و امکانات دیگر اشاره کرد. از Next.js به دلایل زیر استفاده می‌شود: 1.Server Side Rendering(SSR): Next.js اجازه می‌دهد تا صفحات وب را در سمت سرور رندر کنید و به کاربران ارسال کنید.</description>
+    </item>
+    
+    <item>
+      <title>Chapitre I: La grande halle</title>
+      <link>https://hoseinkhaleghi.github.io/fa/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://hoseinkhaleghi.github.io/fa/post/chapter-1/</guid>
+      <description>Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d&amp;rsquo;attente. L&amp;rsquo;avantage de le mettre en latin est que l&amp;rsquo;opérateur sait au premier coup d&amp;rsquo;oeil que la page contenant ces lignes n&amp;rsquo;est pas valide, et surtout l&amp;rsquo;attention du client n&amp;rsquo;est pas dérangée par le contenu, il demeure concentré seulement sur l&amp;rsquo;aspect graphique.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://hoseinkhaleghi.github.io/fa/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoseinkhaleghi.github.io/fa/contact/</guid>
+      <description>Ceci est la page de contact en Français.
+This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required. Message </description>
+    </item>
+    
+    <item>
+      <title>درباره من</title>
+      <link>https://hoseinkhaleghi.github.io/fa/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoseinkhaleghi.github.io/fa/about/</guid>
+      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+    </item>
+    
+  </channel>
+</rss>

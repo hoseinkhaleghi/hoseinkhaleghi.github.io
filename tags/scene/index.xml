@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Wizard</title>
+    <link>https://hoseinkhaleghi.github.io/tags/scene/</link>
+    <description>Recent content in scene on Wizard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://hoseinkhaleghi.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter I: Learn HTML</title>
+      <link>https://hoseinkhaleghi.github.io/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://hoseinkhaleghi.github.io/post/chapter-1/</guid>
+      <description>In writing</description>
+    </item>
+    
+  </channel>
+</rss>
